@@ -13,3 +13,7 @@ Projeto desenvolvido pela Alura na #ImersaoFront-End onde estou aprendendo a rec
 # Dia 3: Layout Flexbox, Pseudo-classes e Responsividade em CSS
 
 ![imagem aula 3](https://github.com/Carla-coder/Spotify-Alura/assets/128012862/9d46c1a8-1ee1-415b-8a42-a9aad0765127)
+
+# Dia 4: CSS Grid, Media Queries e Manipulação do DOM com JavaScript
+
+![imagem aula 4](https://github.com/Carla-coder/Spotify-Alura/assets/128012862/e5a3b967-d9ad-4cc0-aa58-ef53f7313365)
